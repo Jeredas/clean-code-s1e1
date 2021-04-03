@@ -4,6 +4,13 @@
   color: #333;
   font-family: Lato, sans-serif;
 }
+.seo{
+    position: absolute;
+    top:-9999999px;
+    left:-9999999px;
+    width: 1px;
+    height: 1px;
+}
 .intro {
   width: 500px;
   margin: 0 auto;
